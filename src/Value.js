@@ -29,7 +29,6 @@ function decrement(){
      <div>{state.count}</div>
      <button onClick={increment}>+</button>
      <button onClick = {decrement}>-</button>
-     <h4>Hello World</h4>
     </>
    
   )
